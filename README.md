@@ -118,6 +118,3 @@ Predictions are saved to `predictions.csv` with columns:
 | `HealthScoreCalculator` | Converts RUL to health metrics |
 | `ModelEvaluator` | Evaluates and compares model performance |
 
-## Author
-
-IIT KGP - Predictive Maintenance Hackathon Project
